@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-mongodb
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sxs862
+Implementation-Vendor-Id: com.sb.mongo
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ mongodb/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
